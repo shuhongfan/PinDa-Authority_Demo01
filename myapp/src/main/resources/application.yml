@@ -1,0 +1,5 @@
+server:
+  port: 8000
+hello:
+  name: xiaoming
+  address: beijing

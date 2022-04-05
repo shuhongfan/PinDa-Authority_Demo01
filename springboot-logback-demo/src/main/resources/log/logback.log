@@ -1,0 +1,41 @@
+2022-04-05 11:13:37.346 [main] INFO  com.shf.LogbackApp - Starting LogbackApp on SHFOMEN7 with PID 21384 (C:\Users\shuho\Documents\Code\PinDa-Authority_Demo01\springboot-logback-demo\target\classes started by shuho in C:\Users\shuho\Documents\Code\PinDa-Authority_Demo01)
+2022-04-05 11:13:37.347 [main] INFO  com.shf.LogbackApp - The following profiles are active: dev
+2022-04-05 11:13:37.851 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 9000 (http)
+2022-04-05 11:13:37.856 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-9000"]
+2022-04-05 11:13:37.857 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2022-04-05 11:13:37.857 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.29]
+2022-04-05 11:13:37.902 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-04-05 11:13:37.903 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 513 ms
+2022-04-05 11:13:37.993 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2022-04-05 11:13:38.079 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-9000"]
+2022-04-05 11:13:38.090 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 9000 (http) with context path ''
+2022-04-05 11:13:38.091 [main] INFO  com.shf.LogbackApp - Started LogbackApp in 1.073 seconds (JVM running for 1.727)
+2022-04-05 11:13:40.423 [http-nio-9000-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-04-05 11:13:40.423 [http-nio-9000-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2022-04-05 11:13:40.427 [http-nio-9000-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 4 ms
+2022-04-05 11:13:55.552 [http-nio-9000-exec-2] INFO  com.shf.controller.UserController - info...
+2022-04-05 11:13:55.552 [http-nio-9000-exec-2] WARN  com.shf.controller.UserController - warn...
+2022-04-05 11:13:55.552 [http-nio-9000-exec-2] ERROR com.shf.controller.UserController - error...
+2022-04-05 11:15:18.134 [SpringContextShutdownHook] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2022-04-05 11:15:24.460 [main] INFO  com.shf.LogbackApp - Starting LogbackApp on SHFOMEN7 with PID 22260 (C:\Users\shuho\Documents\Code\PinDa-Authority_Demo01\springboot-logback-demo\target\classes started by shuho in C:\Users\shuho\Documents\Code\PinDa-Authority_Demo01)
+2022-04-05 11:15:24.462 [main] INFO  com.shf.LogbackApp - The following profiles are active: pro
+2022-04-05 11:15:24.894 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 9000 (http)
+2022-04-05 11:15:24.900 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-9000"]
+2022-04-05 11:15:24.900 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2022-04-05 11:15:24.900 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.29]
+2022-04-05 11:15:24.947 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-04-05 11:15:24.948 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 443 ms
+2022-04-05 11:15:25.045 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2022-04-05 11:15:25.134 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-9000"]
+2022-04-05 11:15:25.146 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 9000 (http) with context path ''
+2022-04-05 11:15:25.148 [main] INFO  com.shf.LogbackApp - Started LogbackApp in 0.939 seconds (JVM running for 1.427)
+2022-04-05 11:15:28.127 [http-nio-9000-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-04-05 11:15:28.128 [http-nio-9000-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2022-04-05 11:15:28.131 [http-nio-9000-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 3 ms
+2022-04-05 11:15:28.141 [http-nio-9000-exec-1] INFO  com.shf.controller.UserController - info...
+2022-04-05 11:15:28.141 [http-nio-9000-exec-1] WARN  com.shf.controller.UserController - warn...
+2022-04-05 11:15:28.141 [http-nio-9000-exec-1] ERROR com.shf.controller.UserController - error...
+2022-04-05 11:15:47.226 [http-nio-9000-exec-2] INFO  com.shf.controller.UserController - info...
+2022-04-05 11:15:47.226 [http-nio-9000-exec-2] WARN  com.shf.controller.UserController - warn...
+2022-04-05 11:15:47.226 [http-nio-9000-exec-2] ERROR com.shf.controller.UserController - error...
+2022-04-05 11:20:01.141 [SpringContextShutdownHook] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'

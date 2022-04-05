@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/hello-spring-boot-starter/pom.xml" />
+        <option value="$PROJECT_DIR$/myapp/pom.xml" />
+        <option value="$PROJECT_DIR$/pinda-authority/pom.xml" />
+        <option value="$PROJECT_DIR$/swagge-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/swagger-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/knife4j-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/mySwagger/pom.xml" />
+        <option value="$PROJECT_DIR$/dozer-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/myDozerApp/pom.xml" />
+        <option value="$PROJECT_DIR$/hibernate-validator_demo/pom.xml" />
+        <option value="$PROJECT_DIR$/myHibernateValidatorApp/pom.xml" />
+        <option value="$PROJECT_DIR$/antiSamy-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/myXssApp/pom.xml" />
+        <option value="$PROJECT_DIR$/logback-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-logback-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/springevent-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/myLogApp/pom.xml" />
+        <option value="$PROJECT_DIR$/jwt-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/myJwtApp/pom.xml" />
+        <option value="$PROJECT_DIR$/argumentResolver-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/myCurrentUserApp/pom.xml" />
+        <option value="$PROJECT_DIR$/exceptionHandler-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/myExceptionHandlerApp/pom.xml" />
+        <option value="$PROJECT_DIR$/j2cache_demo/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="jpab" />
+  </component>
+</project>

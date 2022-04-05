@@ -1,0 +1,19 @@
+server:
+  port: 8080
+
+pinda:
+  swagger:
+    enable: true
+    title: 测试标题
+    description: 在线文档
+    version: 0.1
+    basePackage: com.shf.knife4j.controller
+#    docket:
+#      user:
+#        title: 用户模块
+#        group: 用户模块组
+#        base-package: com.shf.knife4j.controller.user
+#      menu:
+#        title: 菜单模块
+#        group: 菜单模块组
+#        base-package: com.shf.knife4j.controller.menu

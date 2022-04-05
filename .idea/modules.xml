@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/PinDa-Authority_Demo01.iml" filepath="$PROJECT_DIR$/.idea/PinDa-Authority_Demo01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/antiSamy-demo/antiSamy-demo.iml" filepath="$PROJECT_DIR$/antiSamy-demo/antiSamy-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/argumentResolver-demo/argumentResolver-demo.iml" filepath="$PROJECT_DIR$/argumentResolver-demo/argumentResolver-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dozer-demo/dozer-demo.iml" filepath="$PROJECT_DIR$/dozer-demo/dozer-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exceptionHandler-demo/exceptionHandler-demo.iml" filepath="$PROJECT_DIR$/exceptionHandler-demo/exceptionHandler-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hello-spring-boot-starter/hello-spring-boot-starter.iml" filepath="$PROJECT_DIR$/hello-spring-boot-starter/hello-spring-boot-starter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hibernate-validator_demo/hibernate-validator_demo.iml" filepath="$PROJECT_DIR$/hibernate-validator_demo/hibernate-validator_demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/j2cache_demo/j2cache_demo.iml" filepath="$PROJECT_DIR$/j2cache_demo/j2cache_demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jwt-demo/jwt-demo.iml" filepath="$PROJECT_DIR$/jwt-demo/jwt-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/knife4j-demo/knife4j-demo.iml" filepath="$PROJECT_DIR$/knife4j-demo/knife4j-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/logback-demo/logback-demo.iml" filepath="$PROJECT_DIR$/logback-demo/logback-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myCurrentUserApp/myCurrentUserApp.iml" filepath="$PROJECT_DIR$/myCurrentUserApp/myCurrentUserApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myDozerApp/myDozerApp.iml" filepath="$PROJECT_DIR$/myDozerApp/myDozerApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myExceptionHandlerApp/myExceptionHandlerApp.iml" filepath="$PROJECT_DIR$/myExceptionHandlerApp/myExceptionHandlerApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myHibernateValidatorApp/myHibernateValidatorApp.iml" filepath="$PROJECT_DIR$/myHibernateValidatorApp/myHibernateValidatorApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myJwtApp/myJwtApp.iml" filepath="$PROJECT_DIR$/myJwtApp/myJwtApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myLogApp/myLogApp.iml" filepath="$PROJECT_DIR$/myLogApp/myLogApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mySwagger/mySwagger.iml" filepath="$PROJECT_DIR$/mySwagger/mySwagger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myXssApp/myXssApp.iml" filepath="$PROJECT_DIR$/myXssApp/myXssApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myapp/myapp.iml" filepath="$PROJECT_DIR$/myapp/myapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pinda-authority/pd-apps/pd-apps.iml" filepath="$PROJECT_DIR$/pinda-authority/pd-apps/pd-apps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pinda-authority/pd-apps/pd-auth/pd-auth.iml" filepath="$PROJECT_DIR$/pinda-authority/pd-apps/pd-auth/pd-auth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pinda-authority/pd-apps/pd-auth/pd-auth-entity/pd-auth-entity.iml" filepath="$PROJECT_DIR$/pinda-authority/pd-apps/pd-auth/pd-auth-entity/pd-auth-entity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pinda-authority/pd-apps/pd-auth/pd-auth-server/pd-auth-server.iml" filepath="$PROJECT_DIR$/pinda-authority/pd-apps/pd-auth/pd-auth-server/pd-auth-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pinda-authority/pd-apps/pd-gateway/pd-gateway.iml" filepath="$PROJECT_DIR$/pinda-authority/pd-apps/pd-gateway/pd-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pinda-authority/pd-parent/pd-parent.iml" filepath="$PROJECT_DIR$/pinda-authority/pd-parent/pd-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pinda-authority/pd-tools/pd-tools.iml" filepath="$PROJECT_DIR$/pinda-authority/pd-tools/pd-tools.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pinda-authority/pd-tools/pd-tools-common/pd-tools-common.iml" filepath="$PROJECT_DIR$/pinda-authority/pd-tools/pd-tools-common/pd-tools-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pinda-authority/pd-tools/pd-tools-core/pd-tools-core.iml" filepath="$PROJECT_DIR$/pinda-authority/pd-tools/pd-tools-core/pd-tools-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pinda-authority/pd-tools/pd-tools-databases/pd-tools-databases.iml" filepath="$PROJECT_DIR$/pinda-authority/pd-tools/pd-tools-databases/pd-tools-databases.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pinda-authority/pd-tools/pd-tools-dozer/pd-tools-dozer.iml" filepath="$PROJECT_DIR$/pinda-authority/pd-tools/pd-tools-dozer/pd-tools-dozer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pinda-authority/pd-tools/pd-tools-j2cache/pd-tools-j2cache.iml" filepath="$PROJECT_DIR$/pinda-authority/pd-tools/pd-tools-j2cache/pd-tools-j2cache.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pinda-authority/pd-tools/pd-tools-jwt/pd-tools-jwt.iml" filepath="$PROJECT_DIR$/pinda-authority/pd-tools/pd-tools-jwt/pd-tools-jwt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pinda-authority/pd-tools/pd-tools-log/pd-tools-log.iml" filepath="$PROJECT_DIR$/pinda-authority/pd-tools/pd-tools-log/pd-tools-log.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pinda-authority/pd-tools/pd-tools-swagger2/pd-tools-swagger2.iml" filepath="$PROJECT_DIR$/pinda-authority/pd-tools/pd-tools-swagger2/pd-tools-swagger2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pinda-authority/pd-tools/pd-tools-user/pd-tools-user.iml" filepath="$PROJECT_DIR$/pinda-authority/pd-tools/pd-tools-user/pd-tools-user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pinda-authority/pd-tools/pd-tools-validator/pd-tools-validator.iml" filepath="$PROJECT_DIR$/pinda-authority/pd-tools/pd-tools-validator/pd-tools-validator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pinda-authority/pd-tools/pd-tools-xss/pd-tools-xss.iml" filepath="$PROJECT_DIR$/pinda-authority/pd-tools/pd-tools-xss/pd-tools-xss.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pinda-authority/pinda-authority.iml" filepath="$PROJECT_DIR$/pinda-authority/pinda-authority.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-logback-demo/springboot-logback-demo.iml" filepath="$PROJECT_DIR$/springboot-logback-demo/springboot-logback-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springevent-demo/springevent-demo.iml" filepath="$PROJECT_DIR$/springevent-demo/springevent-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/swagger-demo/swagger-demo.iml" filepath="$PROJECT_DIR$/swagger-demo/swagger-demo.iml" />
+    </modules>
+  </component>
+</project>

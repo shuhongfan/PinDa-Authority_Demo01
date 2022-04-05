@@ -1,0 +1,9 @@
+server:
+  port: 8080
+
+pinda:
+  swagger:
+    basic:
+      enable: true
+    title: 在线接口文档
+    base-package: com.shf.controller
