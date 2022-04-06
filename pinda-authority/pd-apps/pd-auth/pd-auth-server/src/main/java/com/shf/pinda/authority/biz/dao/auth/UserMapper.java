@@ -8,7 +8,7 @@ import com.baomidou.mybatisplus.core.mapper.BaseMapper;
 import com.baomidou.mybatisplus.core.metadata.IPage;
 import com.baomidou.mybatisplus.core.toolkit.Constants;
 import com.shf.pinda.authority.entity.auth.User;
-//import com.itheima.pinda.database.mybatis.auth.DataScope;
+//import com.shf.pinda.database.mybatis.auth.DataScope;
 import org.apache.ibatis.annotations.Param;
 import org.springframework.stereotype.Repository;
 
